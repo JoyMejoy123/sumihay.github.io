@@ -71,9 +71,9 @@ h1{
 
 #content{
     color:rgb(6, 6, 6);
-    text-align: center;
+    text-align: justify;
     font-family:cursive;
-    font-size: 70px;
+    font-size: 50px;
 }
 
 #content img{
